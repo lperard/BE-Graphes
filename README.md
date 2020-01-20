@@ -1,6 +1,6 @@
 # Graph & Algorithm project &mdash; INSA Toulouse
 
-Project completed from Mars to May 2018, the base of the project was given.
+Project completed from Mars to May 2018, the base of the project was given. Made with Adrien BENARD.
 This project was stored previously on my GitLab account, here is the link to the repository: 
 https://gitlab.com/Lperard/be-graphes
 
